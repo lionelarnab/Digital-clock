@@ -1,0 +1,28 @@
+h1{
+    top: 15px;
+    font-size: 35px;
+}
+#time{
+    margin-top: 110px;
+    gap: 16px;
+    flex-direction: column;
+}
+/* #time .circle{
+    width: 100px;
+    height: 100px;
+} */
+/* #time .circle svg{
+    width: 100px;
+    height: 100px;
+} */
+/* #time .circle svg circle{
+    width: 20%;
+    height: 20%;
+    
+} */
+#time div{
+    font-size: 1.3em;
+}
+#time .ap{
+    font-size: 0.7em;
+}
